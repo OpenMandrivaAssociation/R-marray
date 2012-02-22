@@ -9,10 +9,9 @@ Group:            Sciences/Mathematics
 License:          LGPL
 URL:              http://bioconductor.org/packages/release/bioc/html/marray.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/marray_1.32.0.tar.gz
-Requires:         R-limma R-methods 
-Requires:         R-tkWidgets 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-limma R-methods
-BuildRequires:    R-tkWidgets 
+Requires:         R-limma R-methods R-tkWidgets
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-limma R-methods R-tkWidgets
 
 %description
 Class definitions for two-color spotted microarray data. Fuctions for data
