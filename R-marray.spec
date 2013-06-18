@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          1.36.0
-Release:          1
+Release:          2
 Summary:          Exploratory analysis for two-color spotted microarray data
 Group:            Sciences/Mathematics
 License:          LGPL
