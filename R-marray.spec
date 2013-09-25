@@ -4,13 +4,13 @@
 %define debug_package %{nil}
 
 Name:             R-%{packname}
-Version:          1.36.0
-Release:          2
+Version:          1.38.0
+Release:          1
 Summary:          Exploratory analysis for two-color spotted microarray data
 Group:            Sciences/Mathematics
 License:          LGPL
 URL:              http://bioconductor.org/packages/release/bioc/html/marray.html
-Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/marray_1.36.0.tar.gz
+Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/marray_1.38.0.tar.gz
 Requires:         R-limma R-methods R-tkWidgets
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
 BuildRequires:    R-limma R-methods R-tkWidgets
