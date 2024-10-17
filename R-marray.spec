@@ -9,7 +9,7 @@ Release:          1
 Summary:          Exploratory analysis for two-color spotted microarray data
 Group:            Sciences/Mathematics
 License:          LGPL
-URL:              http://bioconductor.org/packages/release/bioc/html/marray.html
+URL:              https://bioconductor.org/packages/release/bioc/html/marray.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/marray_1.38.0.tar.gz
 Requires:         R-limma R-methods R-tkWidgets
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
